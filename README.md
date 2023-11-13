@@ -1,4 +1,4 @@
-# SteamAppPrice
+# SteamPrice
 Fetch Steam App-Game Price
 
 EXAMPLE applist.txt  
