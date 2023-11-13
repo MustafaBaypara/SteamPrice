@@ -13,5 +13,6 @@ CHOSE CURRENCYS
 CHOSE FILE AND FOLDER  
 ![image](https://github.com/MustafaBaypara/SteamAppPrice/assets/94145699/a9861f63-b027-47c5-a202-87a903e6f13f)  
 START AND EXTRACT SHEET  
-![image](https://github.com/MustafaBaypara/SteamAppPrice/assets/94145699/f5f49e03-15d4-4de4-a953-c07b31c9e7e4)  
+![image](https://github.com/MustafaBaypara/SteamPrice/assets/94145699/795361c9-2f3f-433e-8ca8-9dd58a2ba33d)
 
+COUNTER STRİKE 2 IS FREE
