@@ -11,7 +11,7 @@ enter steam links
 CHOSE CURRENCYS  
 ![image](https://github.com/MustafaBaypara/SteamAppPrice/assets/94145699/3f377c7f-1d57-45f4-89be-53638902ae95)  
   
-RUN AND  
+RUN   
 CHOSE FILE AND FOLDER  
 ![image](https://github.com/MustafaBaypara/SteamAppPrice/assets/94145699/a9861f63-b027-47c5-a202-87a903e6f13f)  
 START AND EXTRACT SHEET  
