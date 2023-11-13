@@ -1,7 +1,6 @@
 import requests
 import tkinter as tk
 from tkinter import Label, Button, filedialog
-import os
 import openpyxl
 import re
 
