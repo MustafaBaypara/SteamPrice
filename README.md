@@ -1,6 +1,8 @@
 # SteamPrice
 Fetch Steam App-Game Price
 
+TOO MUCH REQUESTS MAY TURN OUT THE TIME. CAREFUL SHOULD BE TAKEN.  
+
 EXAMPLE applist.txt  
 enter steam links  
 ![image](https://github.com/MustafaBaypara/SteamAppPrice/assets/94145699/3fa71784-c79d-4512-9d60-4684ced40233)
