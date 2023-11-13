@@ -3,13 +3,19 @@ import tkinter as tk
 from tkinter import Label, Button, filedialog
 import os
 import openpyxl
+import re
 
 
 
 def get_steam_price(file, folder):
     print(file)
     print(folder)
+
+    #Chose currency
     currencys = {"us", "de", "tr", "uk"}
+        
+
+
     country ={
     "ar": "Argentine Peso",
     "au": "Australian Dollar",
@@ -51,14 +57,19 @@ def get_steam_price(file, folder):
     "us": "U.S. Dollar",
     "ua": "Ukrainian Hryvnia",
     "uy": "Uruguayan Peso",
-    "vn": "Vietnamese Dong"
-}
+    "vn": "Vietnamese Dong"}
+
     with open(f"{folder}/steamprices.xlsx", "w") as f:
         f.write("")
     workbook = openpyxl.Workbook()
     sheet = workbook.active
     with open(file, "r") as f:
         app_ids = [line.strip() for line in f.readlines()]
+        for a, i in enumerate(app_ids):
+            match = re.search(r'\d+', i)
+            if match:
+                app_ids[a] = match.group()
+
     startrow = 1
     for i in app_ids:
         startrow += 1
