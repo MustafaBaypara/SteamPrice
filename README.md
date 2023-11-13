@@ -1,7 +1,7 @@
 # SteamPrice
 Fetch Steam App-Game Price
 
-TOO MUCH REQUESTS MAY TURN OUT THE TIME. CAREFUL SHOULD BE TAKEN.  
+TOO MANY REQUESTS MAY TIMEOUT  
 
 EXAMPLE applist.txt  
 enter steam links  
