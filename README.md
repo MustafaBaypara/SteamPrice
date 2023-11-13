@@ -1,8 +1,10 @@
 # SteamAppPrice
-Fetch Steam App Price
+Fetch Steam App-Game Price
 
 EXAMPLE applist.txt  
-![image](https://github.com/MustafaBaypara/SteamAppPrice/assets/94145699/b2e305bd-2faf-4f7c-823a-bc862988bf5f)  
+enter steam links  
+![image](https://github.com/MustafaBaypara/SteamAppPrice/assets/94145699/3fa71784-c79d-4512-9d60-4684ced40233)
+
   
 CHOSE CURRENCYS  
 ![image](https://github.com/MustafaBaypara/SteamAppPrice/assets/94145699/3f377c7f-1d57-45f4-89be-53638902ae95)  
